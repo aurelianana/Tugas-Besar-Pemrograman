@@ -11,7 +11,7 @@ void TotalBelanja()
 	printf("Masukan Harga Barang	=\n");
 	scanf("%d", &harga);
 	total=barang*harga;
-	printf("Masukkan uang yang diberikan    = \n");
+	printf("Masukkan uang yang diberikan    =\n");
 	scanf("%d", &pembayaran);
 }
 void Diskon()
